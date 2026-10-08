@@ -67,13 +67,11 @@
 
 ---
 
-### 🤝 Let's Connect!
+🤝 Let's Connect!
 
-* 📧 **Email:** [rohanairee09@gmail.com]
-* 🔗 **LinkedIn:** [linkedin.com/in/rohan-singh-24257a209](https://www.linkedin.com/in/rohan-singh-24257a209)
-
-💡 *"Think. Build. Solve. Repeat."*  
-Let's create something impactful together! ✨
+• 🌐 Portfolio: https://rohan-portfolio-puce.vercel.app
+• 📧 Email: [rohanairee09@gmail.com](mailto:rohanairee09@gmail.com)
+• 🔗 LinkedIn: [linkedin.com/in/rohan-singh-24257a209](https://linkedin.com/in/rohan-singh-24257a209)
 <!--
 **rohanairee09-gif/rohanairee09-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
